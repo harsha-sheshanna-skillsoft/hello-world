@@ -1,2 +1,2 @@
 # hello-world
-test repository
+Empty repository to validate basic github operations
